@@ -1,0 +1,6 @@
+{
+    "parent":"kmod:item/standard_item",
+    "textures": {
+        "layer0":"kmod:items/test_item"
+    }
+}

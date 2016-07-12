@@ -1,0 +1,6 @@
+{
+    "parent":"kmod:item/standard_hoe",
+    "textures": {
+        "layer0":"kmod:items/glass_hoe"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent":"kmod:item/standard_pickaxe",
+    "textures": {
+        "layer0":"kmod:items/emerald_pickaxe"
+    }
+}

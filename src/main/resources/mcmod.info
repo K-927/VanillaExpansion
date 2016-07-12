@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanillaexpansion",
+  "name": "Vanilla Expansion",
+  "description": "Adds 'lore-friendly' items and ores to Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Killaa, LeaAnne94"],
+  "credits": "The Forge and FML guys, for making this possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
